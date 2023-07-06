@@ -1,1 +1,1 @@
-# kunnzawathant.github.io
+Personal Static Website
